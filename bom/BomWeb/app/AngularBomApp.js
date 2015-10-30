@@ -1,0 +1,1 @@
+﻿var angularBomApp = angular.module('angularBomApp', ['ui.bootstrap']);

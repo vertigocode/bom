@@ -1,0 +1,7 @@
+D:\Code\BookOrMovie\Solution\BusinessLibrary\bin\Debug\BusinessLibrary.dll
+D:\Code\BookOrMovie\Solution\BusinessLibrary\bin\Debug\BusinessLibrary.pdb
+D:\Code\BookOrMovie\Solution\BusinessLibrary\obj\Debug\BusinessLibrary.dll
+D:\Code\BookOrMovie\Solution\BusinessLibrary\obj\Debug\BusinessLibrary.pdb
+D:\Code\BookOrMovie\Solution\BusinessLibrary\bin\Debug\RestSharp.dll
+D:\Code\BookOrMovie\Solution\BusinessLibrary\bin\Debug\RestSharp.xml
+D:\Code\BookOrMovie\Solution\BusinessLibrary\obj\Debug\BusinessLibrary.csprojResolveAssemblyReference.cache

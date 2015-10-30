@@ -1,0 +1,11 @@
+D:\Code\BookOrMovie\Solution\bom\BusinessLibrary.Tests\bin\Debug\BusinessLibrary.Tests.dll
+D:\Code\BookOrMovie\Solution\bom\BusinessLibrary.Tests\bin\Debug\BusinessLibrary.Tests.pdb
+D:\Code\BookOrMovie\Solution\bom\BusinessLibrary.Tests\bin\Debug\BusinessLibrary.dll
+D:\Code\BookOrMovie\Solution\bom\BusinessLibrary.Tests\bin\Debug\nunit.framework.dll
+D:\Code\BookOrMovie\Solution\bom\BusinessLibrary.Tests\bin\Debug\BusinessLibrary.pdb
+D:\Code\BookOrMovie\Solution\bom\BusinessLibrary.Tests\bin\Debug\nunit.framework.xml
+D:\Code\BookOrMovie\Solution\bom\BusinessLibrary.Tests\obj\Debug\BusinessLibrary.Tests.csprojResolveAssemblyReference.cache
+D:\Code\BookOrMovie\Solution\bom\BusinessLibrary.Tests\obj\Debug\BusinessLibrary.Tests.dll
+D:\Code\BookOrMovie\Solution\bom\BusinessLibrary.Tests\obj\Debug\BusinessLibrary.Tests.pdb
+D:\Code\BookOrMovie\Solution\bom\BusinessLibrary.Tests\bin\Debug\RestSharp.dll
+D:\Code\BookOrMovie\Solution\bom\BusinessLibrary.Tests\bin\Debug\RestSharp.xml

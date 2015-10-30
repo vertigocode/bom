@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Book or Movie";
+}
+
+<div ng-controller="tlController">
+    <div class="row text-center">
+        <div class="col-xs-12 col-sm-offset-3 col-sm-6 col-md-offset-2 col-md-8">
+            <title-lookup-form/>
+        </div>
+    </div>
+    <br/><br />
+    <div class="row" ng-show="showResults">
+        <title-results-form/>
+    </div>
+</div>
